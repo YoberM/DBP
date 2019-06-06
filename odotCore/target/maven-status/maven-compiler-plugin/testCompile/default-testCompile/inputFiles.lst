@@ -1,0 +1,10 @@
+/home/yober/eclipse-workspace/odotCore/src/test/java/com/makotojava/learn/odot/TestConfiguration.java
+/home/yober/eclipse-workspace/odotCore/src/test/java/com/makotojava/learn/odot/model/Items.java
+/home/yober/eclipse-workspace/odotCore/src/test/java/com/makotojava/learn/odot/TestConfigurationEmptyDb.java
+/home/yober/eclipse-workspace/odotCore/src/test/java/com/makotojava/learn/odot/TestConfigurationNullDataSource.java
+/home/yober/eclipse-workspace/odotCore/src/test/java/com/makotojava/learn/odot/model/Categories.java
+/home/yober/eclipse-workspace/odotCore/src/test/java/com/makotojava/learn/odot/model/ItemTest.java
+/home/yober/eclipse-workspace/odotCore/src/test/java/com/makotojava/learn/odot/dao/ItemDaoTest.java
+/home/yober/eclipse-workspace/odotCore/src/test/java/com/makotojava/learn/odot/TestCategoryDaoConfiguration.java
+/home/yober/eclipse-workspace/odotCore/src/test/java/com/makotojava/learn/odot/dao/CategoryDaoTest.java
+/home/yober/eclipse-workspace/odotCore/src/test/java/com/makotojava/learn/odot/model/CategoryTest.java

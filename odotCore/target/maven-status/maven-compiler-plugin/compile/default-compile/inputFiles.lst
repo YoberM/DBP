@@ -1,0 +1,11 @@
+/home/yober/eclipse-workspace/odotCore/src/main/java/com/makotojava/learn/odot/dao/CategoryDao.java
+/home/yober/eclipse-workspace/odotCore/src/main/java/com/makotojava/learn/odot/exception/EntityPersistenceException.java
+/home/yober/eclipse-workspace/odotCore/src/main/java/com/makotojava/learn/odot/dao/ItemDao.java
+/home/yober/eclipse-workspace/odotCore/src/main/java/com/makotojava/learn/odot/model/Category.java
+/home/yober/eclipse-workspace/odotCore/src/main/java/com/makotojava/learn/odot/service/CategoryService.java
+/home/yober/eclipse-workspace/odotCore/src/main/java/com/makotojava/learn/odot/model/AbstractEntity.java
+/home/yober/eclipse-workspace/odotCore/src/main/java/com/makotojava/learn/odot/exception/ServiceException.java
+/home/yober/eclipse-workspace/odotCore/src/main/java/com/makotojava/learn/odot/config/AbstractApplicationConfiguration.java
+/home/yober/eclipse-workspace/odotCore/src/main/java/com/makotojava/learn/odot/service/ItemService.java
+/home/yober/eclipse-workspace/odotCore/src/main/java/com/makotojava/learn/odot/config/DatabaseConfiguration.java
+/home/yober/eclipse-workspace/odotCore/src/main/java/com/makotojava/learn/odot/model/Item.java
